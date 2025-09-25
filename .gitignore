@@ -1,13 +1,13 @@
-# Node modules
+#Node modules
 node_modules/
 
-# Environment variables
+#Environment variables
 .env
 
-# Logs
+#Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# OS files
+#OS files
 .DS_Store
